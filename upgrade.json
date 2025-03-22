@@ -47,6 +47,22 @@
       "bonus_hashrate": "30",
       "oldplankey": "6000",
       "plankey": "600"
+    },
+    {
+      "hashrate": "70",
+      "duration": "1 week",
+      "discount": "20",
+      "bonus_hashrate": "35",
+      "oldplankey": "7000",
+      "plankey": "700"
+    },
+    {
+      "hashrate": "80",
+      "duration": "1 week",
+      "discount": "20",
+      "bonus_hashrate": "40",
+      "oldplankey": "8000",
+      "plankey": "800"
     }
   ]
 }
