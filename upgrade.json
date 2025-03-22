@@ -5,6 +5,7 @@
       "duration": "1 week",
       "discount": "20",
       "bonus_hashrate": "5",
+      "oldplankey": "1000",
       "plankey": "100"
     },
     {
@@ -12,6 +13,7 @@
       "duration": "1 week",
       "discount": "20",
       "bonus_hashrate": "10",
+      "oldplankey": "2000",
       "plankey": "200"
     },
     {
@@ -19,6 +21,7 @@
       "duration": "1 week",
       "discount": "20",
       "bonus_hashrate": "15",
+      "oldplankey": "3000",
       "plankey": "300"
     },
     {
@@ -26,6 +29,7 @@
       "duration": "1 week",
       "discount": "20",
       "bonus_hashrate": "20",
+      "oldplankey": "4000",
       "plankey": "400"
     },
     {
@@ -33,6 +37,7 @@
       "duration": "1 week",
       "discount": "20",
       "bonus_hashrate": "25",
+      "oldplankey": "5000",
       "plankey": "500"
     },
     {
@@ -40,6 +45,7 @@
       "duration": "1 week",
       "discount": "20",
       "bonus_hashrate": "30",
+      "oldplankey": "6000",
       "plankey": "600"
     }
   ]
