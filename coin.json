@@ -1,11 +1,17 @@
 [
   {
-    "CoinName": "bitcoin"
+    "basename": "bitcoin",
+    "short":"BTC",
+    "network":["ETH","BEP-20","BTC","Bitcoin"]
   },
   {
-    "CoinName": "ethereum"
+    "CoinName": "ethereum",
+    "short":"ETH",
+    "network":["BASE","ERC-20","ARBITRUM ONE","BEP-20","OPTIMISM","Starknet","Scroll"]
   },
   {
-    "CoinName": "tether"
+    "CoinName": "tether",
+    "short":"USDT",
+    "network":["BEP-20","ERC-20","TRC-20","ARBITRUM ONE","TRON","TRX-20"]
   }
 ]
