@@ -1,17 +1,40 @@
 [
   {
     "basename": "bitcoin",
-    "short":"BTC",
-    "network":["ETH","BEP-20","BTC","Bitcoin"]
+    "image": "https://assets.coingecko.com/coins/images/1/standard/bitcoin.png",
+    "short": "BTC",
+    "network": [
+      "ETH",
+      "BEP-20",
+      "BTC",
+      "Bitcoin"
+    ]
   },
   {
     "CoinName": "ethereum",
-    "short":"ETH",
-    "network":["BASE","ERC-20","ARBITRUM ONE","BEP-20","OPTIMISM","Starknet","Scroll"]
+    "image": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png",
+    "short": "ETH",
+    "network": [
+      "BASE",
+      "ERC-20",
+      "ARBITRUM ONE",
+      "BEP-20",
+      "OPTIMISM",
+      "Starknet",
+      "Scroll"
+    ]
   },
   {
     "CoinName": "tether",
-    "short":"USDT",
-    "network":["BEP-20","ERC-20","TRC-20","ARBITRUM ONE","TRON","TRX-20"]
+    "image": "https://assets.coingecko.com/coins/images/325/standard/Tether.png",
+    "short": "USDT",
+    "network": [
+      "BEP-20",
+      "ERC-20",
+      "TRC-20",
+      "ARBITRUM ONE",
+      "TRON",
+      "TRX-20"
+    ]
   }
 ]
