@@ -11,7 +11,7 @@
     ]
   },
   {
-    "CoinName": "ethereum",
+    "basename": "ethereum",
     "image": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png",
     "short": "ETH",
     "network": [
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "CoinName": "tether",
+    "basename": "tether",
     "image": "https://assets.coingecko.com/coins/images/325/standard/Tether.png",
     "short": "USDT",
     "network": [
